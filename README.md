@@ -15,7 +15,7 @@ The project demonstrates core **MERN concepts**, including **user authentication
 ---
 
 ## Implementation
-- A **video demonstration** of the project is included to show full functionality.  
+- https://github.com/user-attachments/assets/642aae7d-f213-470d-91e5-986b88eb063b
 - Screenshots of key pages and features are also provided.
 
 ---

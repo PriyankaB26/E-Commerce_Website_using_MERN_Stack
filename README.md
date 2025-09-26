@@ -22,7 +22,7 @@ The project demonstrates core **MERN concepts**, including **user authentication
 ### Screenshots
 
 **Admin Product Management**  
-![Admin_Product_management](Admin_Product management.png)
+![Admin_Product_management](Admin_Product_management.png)
 
 **Admin Products Overview**  
 ![Admin_Product](Admin_Product.png)

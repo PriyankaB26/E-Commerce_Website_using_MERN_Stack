@@ -15,8 +15,21 @@ The project demonstrates core **MERN concepts**, including **user authentication
 ---
 
 ## Implementation
-- https://github.com/user-attachments/assets/642aae7d-f213-470d-91e5-986b88eb063b
-- Screenshots of key pages and features are also provided.
+
+### Video Demonstration
+- https://github.com/user-attachments/assets/642aae7d-f213-470d-91e5-986b88eb063b4
+
+### Screenshots
+
+**Admin Product Management**  
+![Admin_Product_management](Admin_Product management.png)
+
+**Admin Products Overview**  
+![Admin_Product](Admin_Product.png)
+
+**Admin Add Category**  
+![Admin_addcategory](Admin_addcategory.png)
+
 
 ---
 

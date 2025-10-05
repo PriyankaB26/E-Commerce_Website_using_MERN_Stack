@@ -1,8 +1,8 @@
 # E-commerce Website using MERN Stack
 
 ## Project Overview
-This is a fully functional **E-commerce website** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-The project demonstrates core **MERN concepts**, including **user authentication using JWT**, **email verification**, and an **admin panel** for managing products and categories.
+This is a fully functional E-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).  
+It is designed to provide a seamless online shopping experience, complete with secure payment integration, product management, and user authentication.
 
 ---
 

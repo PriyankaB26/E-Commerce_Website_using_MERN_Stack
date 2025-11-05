@@ -6,6 +6,7 @@ It is designed to provide a seamless online shopping experience, complete with s
 
 ---
 
+🔗 Live Website: https://jewelkraft.vercel.app/
 ### Technical Features
 - **Frontend:** React.js for dynamic and responsive UI
 - **Backend:** Node.js & Express.js REST APIs
